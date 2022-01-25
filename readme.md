@@ -1,6 +1,6 @@
 ## aa-replica
 
-A replica of 2D mobile game "aa". A simple and indulging game of pins and needles. Shoot the pins into them rotator without them hitting each other.
+A replica of 2D mobile game "aa". A simple and indulging game of pins and needles. Shoot the pins into the rotator without them hitting each other.
 
 ## Gameplay
 
